@@ -4,4 +4,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/[Uu]ser[Ss]etting[Ss]/
+/[Mm]emoryCaptures/
+/*.sln
+/*.csproj
