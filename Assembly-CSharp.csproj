@@ -68,6 +68,7 @@
     <Compile Include="Assets\NIS.cs" />
     <Compile Include="Assets\Look360.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Hotspot.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
